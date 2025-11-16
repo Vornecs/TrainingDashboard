@@ -104,6 +104,7 @@ GPT/
 │   │   └── index.css                    # Styles
 │   ├── package.json      # Node dependencies
 │   └── vite.config.js    # Vite configuration
+├── INSTRUCTIONS.md       # Comprehensive instructions
 ├── QUICKSTART.txt       # Guide on how to get going quick
 └── README.md            # This file
 ```
